@@ -199,24 +199,9 @@ python trainID2labelID.py
 
 If you think this work useful, please give me a star! And if you find any errors or have any suggestions, please contact me.
 
-**GitHub:** `xiaoyufenfei`
-**Email:** `wangy314159@163.com`
 
-### Refer to this Rep
 
-You are encouraged to cite the following papers if this work helps your research.
 
-```bash
-@misc{Efficient-Segmentation-Networks,
-  author = {Yu Wang},
-  title = {Efficient-Segmentation-Networks Pytorch Implementation},
-  year = {2019},
-  publisher = {GitHub},
-  journal = {GitHub repository},
-  howpublished = {\url{https://github.com/xiaoyufenfei/Efficient-Segmentation-Networks}},
-  commit = {master}
-}
-```
 
 ### License
 
